@@ -1,2 +1,1 @@
-# Product-Profitability-
-End-to-end Sales &amp; Business Analysis covering sales, customers, product profitability, ABC analysis, trends, and logistics, with actionable insights and ₹12L+ savings potential.
+Product Profitability & ABC Analysis classifies 65 products — A class drives 70% revenue, discounts kill margins (0% = 54.9% vs 20% = 44.2%), Rice & Grains leads at 54% margin.
